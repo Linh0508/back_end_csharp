@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\bin\Debug\net9.0\Lab03_1.exe
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\bin\Debug\net9.0\Lab03_1.deps.json
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\bin\Debug\net9.0\Lab03_1.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\bin\Debug\net9.0\Lab03_1.dll
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\bin\Debug\net9.0\Lab03_1.pdb
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.dll
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\refint\Lab03_1.dll
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.pdb
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\Lab03_1.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\back-end\tuan1\Lab\Lab03\Lab03_1\obj\Debug\net9.0\ref\Lab03_1.dll
