@@ -1,23 +1,23 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
-void DemSoLuong(int[] a)
+void DemSo(int[] a)
 {
-    int demAm, demDuong;
-    demAm = demDuong = 0;
+    int soSoAm = 0;
+    int soSoDuong = 0;
     foreach (int i in a)
     {
         if (i < 0)
         {
-            demAm++;
+            soSoAm++;
         }
         else if (i > 0)
         {
-            demDuong++;
+            soSoDuong++;
         }
     }
-    Console.WriteLine($"Số lượng số âm: {demAm}\nSố lượng số dương: {demDuong}");
+    Console.WriteLine($"Số lượng số âm: {soSoAm}");
+    Console.WriteLine($"Số lượng số dương: {soSoDuong}");
 }
 
 int n;
@@ -26,7 +26,7 @@ n = int.Parse(Console.ReadLine());
 int[] a = new int[n];
 for (int i = 0; i < n; i++)
 {
-    Console.Write($"Nhập phần tử thứ {i + 1}: ");
+    Console.Write("Nhập giá trị: ");
     a[i] = int.Parse(Console.ReadLine());
 }
-DemSoLuong(a);
+DemSo(a);
