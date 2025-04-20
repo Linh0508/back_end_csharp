@@ -1,7 +1,3 @@
-﻿using System.Text;
-
-Console.OutputEncoding = Encoding.UTF8;
-
 int TinhTongSoChan(int[] a)
 {
     int tong = 0;
@@ -15,6 +11,6 @@ int TinhTongSoChan(int[] a)
     return tong;
 }
 
-int[] a = { 21, 44, 25, 3, 7, 10, 22 };
+int[] a = { 10, 11, 15, 18, 22, 26, 29 };
 int tong = TinhTongSoChan(a);
-Console.WriteLine("Tổng các số chẵn của mảng là: " + tong);
+Console.WriteLine($"Tong la: {tong}");
