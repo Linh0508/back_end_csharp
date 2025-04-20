@@ -1,12 +1,12 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
-double a, b;
+double so1, so2;
 Console.Write("Nhập số thứ nhất: ");
-a = double.Parse(Console.ReadLine());
+so1 = double.Parse(Console.ReadLine());
 Console.Write("Nhập số thứ hai: ");
-b = double.Parse(Console.ReadLine());
-double tong = a + b;
-double tich = a * b;
-Console.WriteLine($"Tổng 2 số là {tong}\nTích 2 số là {tich}");
+so2 = double.Parse(Console.ReadLine());
+double tong = so1 + so2;
+double tich = so1 * so2;
+Console.WriteLine($"Tổng 2 số là {tong}");
+Console.WriteLine($"Tích 2 số là {tich}");
