@@ -1,7 +1,6 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
 void HoanDoi(ref int a, ref int b)
 {
     int c = a;
