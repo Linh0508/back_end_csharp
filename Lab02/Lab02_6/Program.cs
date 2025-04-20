@@ -1,8 +1,7 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
-void SapXep(int[] a)
+void SapXep(int[] a) // Bubble sort
 {
     int n = a.Length;
     for (int i = 0; i < n; i++)
