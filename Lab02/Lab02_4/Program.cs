@@ -1,7 +1,6 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
 int TimSoLonThuHai(int[] a)
 {
     if (a.Length < 2)
@@ -25,13 +24,6 @@ int TimSoLonThuHai(int[] a)
     return scMax;
 }
 
-int[] a = { 21, 44, 25, 3, 7, 10, 22 };
+int[] a = { 19, 37, 66, 85, 10, 5, 2 };
 int n = TimSoLonThuHai(a);
-if (n < 0)
-{
-    Console.WriteLine("Mảng không thoả mãn");
-}
-else
-{
-    Console.WriteLine($"Số lớn thứ 2 trong mảng là: {n}");
-}
+Console.WriteLine($"Số lớn thứ 2 trong mảng là: {n}");
