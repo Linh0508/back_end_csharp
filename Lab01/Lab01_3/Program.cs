@@ -1,9 +1,8 @@
 ﻿using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
-
-double doC;
+double c;
 Console.Write("Nhập độ C: ");
-doC = double.Parse(Console.ReadLine());
-double doF = (doC * 9 / 5) + 32;
-Console.WriteLine($"Độ C là {doC}, độ F tương ứng là {doF}");
+c = double.Parse(Console.ReadLine());
+double f = (c * 9 / 5) + 32;
+Console.WriteLine($"Độ F là {f}");
