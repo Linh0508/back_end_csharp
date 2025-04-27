@@ -1,0 +1,11 @@
+﻿<h2>Edit Task</h2>
+
+<form method="post" asp-action="Edit">
+    <input type="hidden" name="id" value="" />
+    <div class="form-group">
+        <label for="task">Task</label>
+        <input type="text" id="task" name="task" value="" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-2" formaction="/todoHome">Update</button>
+    <a href="/todoHome" class="btn btn-secondary mt-2">Cancel</a>
+</form>
